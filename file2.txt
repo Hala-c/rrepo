@@ -1,2 +1,2 @@
 frist  line in file2
-hello
+git 
